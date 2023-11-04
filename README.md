@@ -1,4 +1,4 @@
-## Open Street Map test application [live preview](https://8bitnikita.github.io/open-street-map/).
+Open Street Map application [Live Preview](https://nk8bnj.github.io/open-street-map/).
 
 # Getting Started with Create React App
 
